@@ -20,7 +20,7 @@ This is the final assignment for the Coursera course "Developing Data Products".
 
 This application is written in Shiny, a web application framework for R. The source code consists of two files: server.R and ui.R, whereby the former includes the backend of a Shiny web application- and the latter the user-interface elements.  
 
-You can find the the Shiny application at https://....
+You can find the the Shiny application at https://sgart.shinyapps.io/ShinyIris/
 
 The Shiny app source code is available at https://github.com/sarahgartenmann/ShinyIris
 
