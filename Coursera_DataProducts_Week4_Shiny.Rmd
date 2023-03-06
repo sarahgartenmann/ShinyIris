@@ -22,7 +22,7 @@ This application is written in Shiny, a web application framework for R. The sou
 
 You can find the the Shiny application at https://....
 
-The Shiny app source code is available at https://github.com/......
+The Shiny app source code is available at https://github.com/sarahgartenmann/ShinyIris
 
 ## The Iris Dataset
 
